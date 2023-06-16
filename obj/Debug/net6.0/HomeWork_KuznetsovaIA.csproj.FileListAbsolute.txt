@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\bin\Debug\net6.0\HomeWork_KuznetsovaIA.exe
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\bin\Debug\net6.0\HomeWork_KuznetsovaIA.deps.json
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\bin\Debug\net6.0\HomeWork_KuznetsovaIA.runtimeconfig.json
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\bin\Debug\net6.0\HomeWork_KuznetsovaIA.dll
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\bin\Debug\net6.0\HomeWork_KuznetsovaIA.pdb
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.AssemblyInfo.cs
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.dll
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\refint\HomeWork_KuznetsovaIA.dll
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.pdb
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\HomeWork_KuznetsovaIA.genruntimeconfig.cache
+C:\Users\User\Desktop\програмирование\HomeWork_KuznetsovaIA\obj\Debug\net6.0\ref\HomeWork_KuznetsovaIA.dll
